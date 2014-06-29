@@ -1,4 +1,4 @@
 meteor-octicons
 ===============
 
-Octicons library for Meteor projects.
+[Octicons](http://octicons.github.com) library for Meteor projects.
