@@ -1,5 +1,8 @@
 Package.describe({
-  summary: 'Octicons library for Meteor.js'
+  summary: 'Octicons library for Meteor.js',
+  version: '0.9.0',
+  name: "keiths:octicons",
+  git: 'https://github.com/Keith-S/meteor-octicons'
 });
 
 Package.on_use(function (api) {
