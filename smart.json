@@ -3,7 +3,7 @@
   "description": "Adds Octicons library to your project",
   "homepage": "https://github.com/Keith-S/meteor-octicons.git",
   "author": "Keith-S",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "git": "https://github.com/Keith-S/meteor-octicons.git",
   "packages": {}
 }
